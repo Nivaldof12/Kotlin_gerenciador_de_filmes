@@ -1,4 +1,4 @@
-# gerenciador_de_filmes
+# Kotlin_gerenciador_de_filmes
 # A sua tarefa consiste em implementar uma aplicação android a sua escolha e que atenda aos seguintes requisitos:
 
 . Deve ser escrito em Kotlin.
